@@ -59,7 +59,7 @@ A Inteligência Artificial é utilizada como ferramenta de apoio à aprendizagem
 
 📌 Status
 
-Projeto em desenvolvimento, com fontes selecionadas, configuração do NotebookLM, perguntas de validação e material de estudo inicial.
+Etapa inicial do projeto concluída: fontes de estudo selecionadas, notebook configurado, perguntas e respostas documentadas, testes registrados e materiais complementares produzidos. O projeto permanece aberto para futuras atualizações e aprofundamento dos estudos.
 
 👨‍💻 Autor
 
@@ -68,8 +68,6 @@ Acesso ao Segundo Cérebro
 
 O projeto foi desenvolvido no Gemini Notebook para apoiar o estudo de desenvolvimento de aplicações web modernas com Inteligência Artificial.
 
-Acesse o notebook:
-https://notebook.google.com/notebook/ef512a16-dfb7-4317-8563-1f7d3c6214fd
 
 Organização dos materiais
 
