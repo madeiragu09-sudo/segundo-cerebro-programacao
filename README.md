@@ -78,3 +78,13 @@ Organização dos materiais
 - Pastas de perguntas: registros das perguntas feitas ao notebook, respostas obtidas e respectivas evidências.
 
 Esses materiais documentam o processo de pesquisa, experimentação e aprendizagem realizado durante o desenvolvimento do projeto.
+Materiais complementares do Estúdio
+
+Durante o desenvolvimento do projeto, foram produzidos materiais complementares no Gemini Notebook para organizar, revisar e apresentar os conhecimentos estudados.
+
+- Mapa mental: https://notebooklm.link.google/CTONJL1q3WRb
+- Resumo em áudio: https://notebooklm.link.google/JWLKyX114S4I
+- Apresentação de slides: https://notebooklm.link.google/A1RZucQPwZVo
+- Gemini Notebook completo: https://notebook.google.com/notebook/ef512a16-dfb7-4317-8563-1f7d3c6214fd
+
+Esses materiais complementam o PDF de estudo, as fontes de pesquisa, os registros de testes e as evidências organizadas neste repositório.
