@@ -64,3 +64,17 @@ Projeto em desenvolvimento, com fontes selecionadas, configuração do NotebookL
 👨‍💻 Autor
 
 Projeto educacional desenvolvido como parte de uma jornada de aprendizagem em programação e Inteligência Artificial.
+Acesso ao Segundo Cérebro
+
+O projeto foi desenvolvido no Gemini Notebook para apoiar o estudo de desenvolvimento de aplicações web modernas com Inteligência Artificial.
+
+Acesse o notebook:
+https://notebook.google.com/notebook/ef512a16-dfb7-4317-8563-1f7d3c6214fd
+
+Organização dos materiais
+
+- PDF de estudo: material de apoio sobre desenvolvimento web moderno e Inteligência Artificial.
+- Pasta "docs": fontes de pesquisa, links, resumos e registro de testes.
+- Pastas de perguntas: registros das perguntas feitas ao notebook, respostas obtidas e respectivas evidências.
+
+Esses materiais documentam o processo de pesquisa, experimentação e aprendizagem realizado durante o desenvolvimento do projeto.
